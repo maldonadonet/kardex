@@ -1,0 +1,21 @@
+#container-login {
+    height: 100vh !important;
+    background-image: url("../images/bg2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+#bg-login {
+    height: 100vh !important;
+    background-color: rgba(33, 150, 243, 0.76);
+    margin: 0;
+    padding: 0;
+}
+
+
+#box-login {
+    border: 1px solid #000;
+    height: 100%;
+}
