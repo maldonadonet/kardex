@@ -1,0 +1,4 @@
+comandos:
+1.- php artisan migrate
+2.- php artisan DB:seed
+Base de datos: db_kardex
